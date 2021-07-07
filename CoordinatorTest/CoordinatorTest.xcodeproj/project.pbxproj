@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AAAF5D2E26918D6F00A5050D /* BuyCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAAF5D2D26918D6F00A5050D /* BuyCoordinator.swift */; };
 		AADA0FC6269093EE000887E0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AADA0FC5269093EE000887E0 /* AppDelegate.swift */; };
 		AADA0FC8269093EE000887E0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AADA0FC7269093EE000887E0 /* SceneDelegate.swift */; };
 		AADA0FCA269093EE000887E0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AADA0FC9269093EE000887E0 /* ViewController.swift */; };
@@ -39,6 +40,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		AAAF5D2D26918D6F00A5050D /* BuyCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuyCoordinator.swift; sourceTree = "<group>"; };
 		AADA0FC2269093EE000887E0 /* CoordinatorTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoordinatorTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AADA0FC5269093EE000887E0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AADA0FC7269093EE000887E0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -109,6 +111,7 @@
 			children = (
 				AADA0FC5269093EE000887E0 /* AppDelegate.swift */,
 				AADA10022690B3F6000887E0 /* MainCoordinator.swift */,
+				AAAF5D2D26918D6F00A5050D /* BuyCoordinator.swift */,
 				AADA0FF826909646000887E0 /* Coordinator.swift */,
 				AADA0FFD269096EF000887E0 /* Storyboarded.swift */,
 				AADA0FC7269093EE000887E0 /* SceneDelegate.swift */,
@@ -269,6 +272,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AAAF5D2E26918D6F00A5050D /* BuyCoordinator.swift in Sources */,
 				AADA0FF926909646000887E0 /* Coordinator.swift in Sources */,
 				AADA10032690B3F6000887E0 /* MainCoordinator.swift in Sources */,
 				AADA0FCA269093EE000887E0 /* ViewController.swift in Sources */,
